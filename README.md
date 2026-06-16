@@ -1,6 +1,6 @@
 # HPAI Risk Modelling
 
-A reproducible framework for modelling and forecasting **Highly Pathogenic Avian Influenza (HPAI)** risk in poultry and wild bird populations using epidemiological, environmental, spatial, and surveillance data.
+A reproducible predictive modelling framework that integrates relevant risk factors, including spatio-temporal and environmental variables, to estimate the risk of HPAI H5N1 and H5N8 outbreaks in India using multiple machine learning approaches. 
 
 ---
 
@@ -14,37 +14,13 @@ HPAI outbreaks pose significant threats to:
 - Food security
 - Public health preparedness
 
-This project provides a modular platform for:
-
-- Risk assessment
-- Outbreak prediction
-- Spatial hotspot identification
-- Environmental driver analysis
-- Scenario simulation
-- Decision support for surveillance and intervention planning
+The proposed approach provides a robust tool for risk mapping, early warning and geographically targeted intervention strategies in India. 
 
 ---
 
 ## Objectives
 
-### Primary Objectives
-
-- Estimate outbreak risk at farm, district, regional, or national scales
-- Identify environmental and ecological risk factors
-- Produce spatial risk maps
-- Support targeted surveillance programs
-- Evaluate intervention strategies
-
-### Research Objectives
-
-- Understand relationships between:
-  - Wild bird populations
-  - Poultry density
-  - Climate variables
-  - Water bodies and wetlands
-  - Land-use patterns
-- Develop explainable predictive models
-- Compare statistical and machine learning approaches
+Develop a predictive modelling framework that integrates relevant risk factors, including spatio-temporal and environmental variables, to estimate the risk of HPAI H5N1 and H5N8 outbreaks in India using multiple machine learning approaches. 
 
 ---
 
@@ -102,9 +78,7 @@ Potential data inputs include:
 ### Wildlife Data
 
 - Migratory bird flyways
-- Species abundance
-- Waterfowl distribution
-- Seasonal migration timing
+- 
 
 ---
 
@@ -112,17 +86,19 @@ Potential data inputs include:
 
 ### Statistical Models
 
-- Logistic Regression
 - Generalized Linear Models (GLM)
-- Bayesian Hierarchical Models
+- Generalized Additive Models (GAM)
+- LASSO, RIDGE and ELASTICNET
 
 ### Machine Learning Models
 
 - Random Forest
 - XGBoost
-- Gradient Boosting
-- LightGBM
-- Ensemble Models
+- XGBoost + Neural Network Feature Embeddings
+- BRT
+- GCN
+- GAT
+
 
 ### Spatial Models
 
