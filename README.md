@@ -72,8 +72,7 @@ Potential data inputs include:
 - Wetlands
 - Lakes and rivers
 - Land cover
-- Poultry density maps
-- Administrative boundaries
+- Administrative boundaries (https://download.geofabrik.de/asia/india.html)
 
 ### Wildlife Data
 
@@ -88,7 +87,7 @@ Potential data inputs include:
 
 - Generalized Linear Models (GLM)
 - Generalized Additive Models (GAM)
-- LASSO, RIDGE and ELASTICNET
+- LASSO, RIDGE and ELASTIC NET
 
 ### Machine Learning Models
 
@@ -103,9 +102,9 @@ Potential data inputs include:
 ### Spatial Models
 
 - Spatial Autocorrelation Analysis
-- Kernel Density Estimation
 - Geostatistical Risk Mapping
-- Spatio-temporal Models
+- LISA
+- ICC (GLMM)
 
 ---
 
