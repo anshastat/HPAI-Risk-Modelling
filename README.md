@@ -217,11 +217,3 @@ Planned enhancements include:
 - Interactive web dashboard
 ---
 
-
----
-
-## Disclaimer
-
-This repository is intended for research and decision-support purposes.
----
-
