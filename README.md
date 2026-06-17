@@ -124,9 +124,9 @@ Feature Engineering
       ↓
 Exploratory Data Analysis
       ↓
-Statistical Modelling
-      ↓
 Spatial Analysis
+      ↓
+Statistical Modelling
       ↓
 Machine Learning Modelling
       ↓
