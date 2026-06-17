@@ -57,6 +57,7 @@ Potential data inputs include:
 HPAI outbreak records were obtained from:
 
 FAO EMPRES-i+ Database: https://empres-i.apps.fao.org/
+
 WOAH World Animal Health Information System (WAHIS): https://wahis.woah.org/#/event-management
 
 These databases provide information on outbreak locations, dates, affected species, and disease occurrence.
@@ -101,50 +102,59 @@ A migratory bird exposure variable was manually derived based on the proximity o
 
 ### Statistical Models
 
-- Generalized Linear Models (GLM)
-- Generalized Additive Models (GAM)
-- LASSO, RIDGE and ELASTIC NET
+Generalized Linear Models (GLM)
+├── Baseline GLM
+├── GLM + LASSO
+├── GLM + Ridge
+└── GLM + Elastic Net
+
+Generalized Additive Models (GAM)
+├── Baseline GAM
+├── GAM + LASSO
+├── GAM + Ridge
+└── GAM + Elastic Net
 
 ### Machine Learning Models
 
-- Random Forest
-- XGBoost
-- XGBoost + Neural Network Feature Embeddings
-- BRT
-- GCN
-- GAT
+* Random Forest (RF)
+* Extreme Gradient Boosting (XGBoost)
+* XGBoost with Neural Network Feature Embeddings
+* Boosted Regression Trees (BRT)
+* Graph Convolutional Networks (GCN)
+* Graph Attention Networks (GAT)
 
+### Spatial Models and Analyses
 
-### Spatial Models
+* Global Moran's I Spatial Autocorrelation Analysis
+* Local Indicators of Spatial Association (LISA)
+* Geostatistical Risk Mapping
+* Intraclass Correlation Coefficient (ICC) using Generalized Linear Mixed Models (GLMM)
 
-- Spatial Autocorrelation Analysis
-- Geostatistical Risk Mapping
-- LISA
-- ICC (GLMM)
-
----
 
 ## Workflow
 
-```text
+
 Data Collection
       ↓
-Data Validation
+Data Preprocessing
       ↓
 Feature Engineering
       ↓
-Model Training
+Exploratory Data Analysis
+      ↓
+Statistical Modelling
+      ↓
+Machine Learning Modelling
       ↓
 Model Evaluation
       ↓
+Spatial Analysis
+      ↓
 Risk Mapping
       ↓
-Scenario Analysis
-      ↓
 Decision Support Outputs
-```
 
----
+
 
 ## Installation
 
