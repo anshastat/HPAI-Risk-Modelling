@@ -1,0 +1,524 @@
+Event.ID,Disease,Serotype,Region,Subregion,Country,States,Locality,Latitude,Longitude,Diagnosis.source,Diagnosis.status,Animal.type,Species,Observation_date,Report_date,Humans.affected,Human.deaths,Month,Season
+425222,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176263WARD 5  PUNNAPRA SOUTH ,9.436252,76.370221,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425223,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176262WARD 8  AMBALAPPUZHA SOUTH ,9.358541,76.392685,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425224,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176264WARD 6  PURAKKAD,9.33785,76.38135,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425225,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176265WARD 1  CHERUTHANA,9.33528,76.431675,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425226,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176266WARD 16  KARUVATTA,9.318865,76.407469,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425228,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176267WARD 4  KARTHIKAPPALLY,9.262442,76.430032,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425229,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176260WARD 37  KOTTAYAM MUNICIPALITY ,9.574786,76.497889,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425230,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176268WARD 5   NEDUMUDI,9.436718,76.389135,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425231,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176261WARD 38  VELOOR  KOTTAYAM MUNICIPALITY,9.574727,76.492516,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-12-2025,05-01-2026,NA,NA,12,Winter
+425232,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176259WARD 5  KURUPAMTHARA  MANJOOR,9.738395,76.497889,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-12-2025,05-01-2026,NA,NA,12,Winter
+425227,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,176258WARD 10  THAKAZHY,9.351375,76.399482,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,09-12-2025,05-01-2026,NA,NA,12,Winter
+422185,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttarakhand,164803VILLAGE-PANDEYGAON  NAINITAL ,29.342658,79.57608,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,28-08-2025,03-12-2025,NA,NA,8,Monsoon
+416274,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Delhi,164798NATIONAL ZOOLOGICAL PARK  DELHI ,28.602763,77.246069,WOAH (former OIE),Confirmed,Wild,Stork,24-08-2025,08-10-2025,NA,NA,8,Monsoon
+422186,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttarakhand,164802SHAKTI FARM  BAIKUNTHPUR,29.04421,79.651134,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-08-2025,03-12-2025,NA,NA,8,Monsoon
+422187,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttarakhand,164801GB PANT UNIVERSITY  PANTNAGAR,29.008267,79.513542,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-08-2025,03-12-2025,NA,NA,8,Monsoon
+422188,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttarakhand,164800VILLAGE KISHANPUR  BLOCK-KICHHA,28.931812,79.508392,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-08-2025,03-12-2025,NA,NA,8,Monsoon
+422189,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttarakhand,164799VILLAGE-SAULI  BLOCK-GARUR,29.8593,79.6023,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-08-2025,03-12-2025,NA,NA,8,Monsoon
+416089,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,165130SHARMA POULTRY FARM  VILLAGE - BAGGI,28.987085,79.16725,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-08-2025,08-10-2025,NA,NA,8,Monsoon
+416091,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,165129MAHARAJA POULTRY FARM  VILLAGE- CHANDAYAN,28.953985,79.309527,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-08-2025,08-10-2025,NA,NA,8,Monsoon
+416090,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,165127KAPTAN POULTRY FARM  VILLAGE - SEHORA,28.940582,79.298524,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,30-07-2025,08-10-2025,NA,NA,7,Monsoon
+412570,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,162218VILLAGE MUNDAAMBA BLOCK KHORDHA ,20.041303,85.538635,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-07-2025,07-08-2025,NA,NA,7,Monsoon
+412569,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,162217VILLAGE BADA ANKULA BLOCK DELANGA ,20.055611,85.725903,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,05-07-2025,07-08-2025,NA,NA,7,Monsoon
+416092,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,162977JHUGIA BAZAR AND ALUMINIUM FACTORY ,26.817496,83.400831,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-05-2025,08-10-2025,NA,NA,5,Summer
+403983,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,154683TEGHARA  RATHAITHA,25.125,86.581589,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),05-03-2025,01-04-2025,NA,NA,3,Summer
+403944,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,Narasaraopet  Palnadu district ,16.23,80.048,FAO officer,Confirmed,,,04-03-2025,02-04-2025,1,1,3,Summer
+403741,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154345DHOKI VILLAGE ,18.371246,76.104454,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-03-2025,28-03-2025,NA,NA,3,Summer
+404000,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,154285KUPPAGAL BROILER POULTRY FARM  MOKA ROAD  BELLARY,15.208883,76.984923,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,28-02-2025,30-03-2025,NA,NA,2,Winter
+403996,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,154505ICAR RESEARCH COMPLEX FOR EATERN REGION  PATNA,25.594078,85.086904,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-02-2025,01-04-2025,NA,NA,2,Winter
+403742,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154319VILLAGE - ANJANGOAN ,20.828152,77.782663,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,25-02-2025,28-03-2025,NA,NA,2,Winter
+403743,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154318KHERDA JERAPURE ,20.51538,77.53992,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-02-2025,28-03-2025,NA,NA,2,Winter
+403994,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,154511REGIONAL POULTRY FARM  BOKARO,23.628558,86.138239,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-02-2025,01-04-2025,NA,NA,2,Winter
+403995,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,154506REGIONAL POULTRY FARM  BURARI  JAGDISHPUR  WARD.28 ,25.262966,87.01366,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-02-2025,01-04-2025,NA,NA,2,Winter
+404002,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,154283VARADAHALLI ,13.431927,77.788089,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-02-2025,30-03-2025,NA,NA,2,Winter
+403993,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,154512PRIMARY HEALTH CENTRE  SALGAPARA,24.403135,87.653026,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-02-2025,01-04-2025,NA,NA,2,Winter
+404001,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,154280REGIONAL POULTRY BREEDING & TRAINING CENTRE  KURIKUPPA,15.214028,76.65661,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-02-2025,30-03-2025,NA,NA,2,Winter
+403972,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154314DEEPLANAGAR VILLAGE- KRISHNARAOPALEM ,16.926535,80.637085,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-02-2025,27-03-2025,NA,NA,2,Winter
+403982,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,154684POLICE LINE,25.1967,84.986813,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),16-02-2025,01-04-2025,NA,NA,2,Winter
+400073,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,151168GRAM SALIMETA  BLOCK-MOHKHED,21.9574,78.8991,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-02-2025,20-02-2025,NA,NA,2,Winter
+403968,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154309CHENDURTHY  GOLLAPROLU  KAKINADA  ,17.226306,82.303694,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-02-2025,27-03-2025,NA,NA,2,Winter
+403966,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154308PITHAPURAM URBAN  WARD -21  KAKINADA  ,17.098222,82.250639,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,12-02-2025,27-03-2025,NA,NA,2,Winter
+403971,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154313ANUMOLULANKA  GUMPALAGUDEM  NTR ,16.983283,80.544214,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-02-2025,27-03-2025,NA,NA,2,Winter
+403969,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154312N R PET ,15.841764,78.04274,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,04-02-2025,27-03-2025,NA,NA,2,Winter
+400072,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,151167WARD NO. 18,22.056624,78.93978,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,31-01-2025,20-02-2025,NA,NA,1,Winter
+403744,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154317YASHIN PLOT  MOTHA TAJBAG,21.111604,79.123069,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,31-01-2025,28-03-2025,NA,NA,1,Winter
+399416,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,150709GOVERNMENT POULTRY FARM  RAIGARH,21.887572,83.407596,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,28-01-2025,13-02-2025,NA,NA,1,Winter
+403992,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,154510POULTRY FARM  COLLEGE OF VETERINARY SCIENCE AND AH (BAU),23.441723,85.33616,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,28-01-2025,01-04-2025,NA,NA,1,Winter
+403746,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154315KHANDAVI,19.352197,73.236091,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-01-2025,28-03-2025,NA,NA,1,Winter
+399199,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,150106RAM NAGAR  UDGIR,18.399592,77.13528,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2025,11-02-2025,NA,NA,1,Winter
+403745,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,154316MANGLI  JUNGNALA,20.516347,79.90125,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-01-2025,28-03-2025,NA,NA,1,Winter
+399200,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,150105VILLAGE KIWALA BLOCK -LOHA,19.035629,77.306374,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-01-2025,11-02-2025,NA,NA,1,Winter
+397836,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Rajasthan,148183NEHDAI  MOHANGARH ,27.284411,71.133905,WOAH (former OIE),Confirmed,Wild,Crane,17-01-2025,28-01-2025,NA,NA,1,Winter
+403965,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154311VELPURU,16.724383,81.662728,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,17-01-2025,27-03-2025,NA,NA,1,Winter
+403970,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154310BADAMPUDI UNGUTUR MANDAL  ELURU ,16.837145,81.474185,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-01-2025,27-03-2025,NA,NA,1,Winter
+399202,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,150104CHINER TAL-URAN,18.872904,73.050858,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,12-01-2025,11-02-2025,NA,NA,1,Winter
+397837,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Rajasthan,148182CHORDIA POND  LAKHMANA (FATHEHGARH) ,26.619528,71.251165,WOAH (former OIE),Confirmed,Wild,Crane,11-01-2025,28-01-2025,NA,NA,1,Winter
+403967,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,154307KANURU AGRAHARAM  PERAVALI MANDAL ,16.830111,81.74575,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2025,27-03-2025,NA,NA,1,Winter
+399201,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,15010312  BANGLOW VASAHAT  KOPRI  THANE,19.181119,72.970814,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-01-2025,11-02-2025,NA,NA,1,Winter
+400049,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,151074CHHINDWARA,22.051283,78.937857,WOAH (former OIE),Confirmed,Domestic,Cats,07-01-2025,20-02-2025,NA,NA,1,Winter
+397913,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,148291WIDLIFE RESCUE CENTRE  GOREWADA ZOO,21.202588,79.001493,WOAH (former OIE),Confirmed,Wild,Leopard,17-12-2024,30-01-2025,NA,NA,12,Winter
+397913,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,148291WIDLIFE RESCUE CENTRE  GOREWADA ZOO,21.202588,79.001493,WOAH (former OIE),Confirmed,Wild,Tiger (Panthera Tigris),17-12-2024,30-01-2025,NA,NA,12,Winter
+397838,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Rajasthan,148181KHICHAN,27.13818,72.416834,WOAH (former OIE),Confirmed,Wild,Crane,15-12-2024,28-01-2025,NA,NA,12,Winter
+392840,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,144754BALIA  DERABISH ,20.545892,86.285453,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-09-2024,14-12-2024,NA,NA,9,Monsoon
+392839,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,144755ENDER  DERABISH,20.557034,86.278017,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,03-09-2024,14-12-2024,NA,NA,9,Monsoon
+392842,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,144752GADA MOTARI  DELANGA,20.094537,85.729339,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,27-08-2024,14-12-2024,NA,NA,8,Monsoon
+392841,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,144753KATAKASANGA  NIMAPARA,20.016841,85.91108,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-08-2024,14-12-2024,NA,NA,8,Monsoon
+392810,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144598WARD 1  VECHOOR,9.679822,76.417773,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,03-07-2024,14-12-2024,NA,NA,7,Monsoon
+392812,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144592WARD 12  CHENNAMPALLIPURAM,9.718402,76.341839,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-06-2024,14-12-2024,NA,NA,6,Monsoon
+392811,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144594WARD 10  VECHOOR,9.663695,76.414395,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,22-06-2024,14-12-2024,NA,NA,6,Monsoon
+392814,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144589WARD 2 KANJIKUZHY,9.663969,76.357365,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-06-2024,14-12-2024,NA,NA,6,Monsoon
+392815,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144588WARD 16  CHENNAM  PALLIPURAM LSGD,9.745858,76.362488,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-06-2024,14-12-2024,NA,NA,6,Monsoon
+392816,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144587WARD 14  CHENNAM  PALLIPURAM LSGD,9.72648,76.354869,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-06-2024,14-12-2024,NA,NA,6,Monsoon
+392813,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144590WARD 2  KADAKKARAPALLY,9.71798,76.29162,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-06-2024,14-12-2024,NA,NA,6,Monsoon
+392817,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144586WARD 3  CHENNAM  PALLIPURAM LSGD,9.758895,76.356595,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-06-2024,14-12-2024,NA,NA,6,Monsoon
+392818,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144585WARD 18  MARARIKULAM SOUTH LSGD,9.55781,76.314399,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-06-2024,14-12-2024,NA,NA,6,Monsoon
+392822,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144581WARD 3  CHENNAM  PALLIPURAM LSGD,9.76677,76.361519,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-06-2024,14-12-2024,NA,NA,6,Monsoon
+392821,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144582WARD 5  THANNEERMUKKAM LSGD,9.676385,76.37277,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-06-2024,14-12-2024,NA,NA,6,Monsoon
+392823,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144580WARD 11  CHENNAM  PALLIPURAM LSGD,9.713189,76.365464,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-06-2024,14-12-2024,NA,NA,6,Monsoon
+392824,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144579WARD 15  CHENNAM PALLIPURAM LSGD,9.738372,76.348501,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-06-2024,14-12-2024,NA,NA,6,Monsoon
+392825,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144577WARD 16  UDAYANAPURAM  LSGD,9.775354,76.383318,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-06-2024,14-12-2024,NA,NA,6,Monsoon
+392819,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144584WARD 5  PULIYOOR LSGD,9.713189,76.365464,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-06-2024,14-12-2024,NA,NA,6,Monsoon
+392820,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144583WARD 4  CHERTHALA MUNICIPALITY,9.694383,76.347261,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-06-2024,14-12-2024,NA,NA,6,Monsoon
+392826,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144575WARD 23  MANNANCHERY,9.582173,76.330633,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-06-2024,14-12-2024,NA,NA,6,Monsoon
+392827,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144574WARD 1  MAHUAMMA PANCHAYAT,9.642812,76.365919,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-06-2024,14-12-2024,NA,NA,6,Monsoon
+392829,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144572WARD 16  CHERTHALA MUNICIPALITY,9.670847,76.348507,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-06-2024,14-12-2024,NA,NA,6,Monsoon
+392828,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144573WARD 11  CHERTHALA SOUTH,9.655053,76.326774,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,09-06-2024,14-12-2024,NA,NA,6,Monsoon
+392830,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144567WARD 15  CHERTHALA MUNCIPALITY,9.67017,76.348898,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-06-2024,14-12-2024,NA,NA,6,Monsoon
+392831,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144561WARD-10  KANJIKUZHY PANCHAYAT,9.602548,76.350493,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-06-2024,14-12-2024,NA,NA,6,Monsoon
+392809,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144566WARD-2  CHUMATHRA,9.410551,76.569621,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-06-2024,14-12-2024,NA,NA,6,Monsoon
+392999,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144559WARD-9  MUHAMMA  MUHAMMA PANCHAYAT  ALAPPUZHA,9.49,76.33,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,25-05-2024,14-12-2024,NA,NA,5,Summer
+392832,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144557ETTIYAKARI PADAM  WARD-1  PAIPPAD,9.407447,76.511221,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-05-2024,14-12-2024,NA,NA,5,Summer
+392833,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144553REGIONAL POULTRY FARM  WARD-13  MANARCAUD,9.583135,76.582953,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-05-2024,14-12-2024,NA,NA,5,Summer
+393000,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144549WARD-11  NIRANAM  PATHANAMTHITTA,9.2648,76.787,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-05-2024,14-12-2024,NA,NA,5,Summer
+392835,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144546WARD-11  THAZHAKKARA,9.215305,76.611319,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-05-2024,14-12-2024,NA,NA,5,Summer
+392836,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144545WARD 13  THALVADY PANCHAYAT,9.44403,76.444133,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,09-05-2024,14-12-2024,NA,NA,5,Summer
+392834,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144550WARD-3  CHAMPAKULAM,9.354627,76.484401,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-05-2024,14-12-2024,NA,NA,5,Summer
+392837,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144543GOVERNMENT DUCK FARM WARD-6  NIRANAM ,9.3426,76.5137,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-05-2024,14-12-2024,NA,NA,5,Summer
+392838,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,144542WARD 9 AMBALAPUZHA NORTH  AMBALAPUZHA  ALAPPUZHA,9.39758,76.68308,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-05-2024,14-12-2024,NA,NA,5,Summer
+379456,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134800 - WARD 10 EDATHUA  CHAMPAKULAM,9.34491,76.46914,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-04-2024,24-05-2024,NA,NA,4,Summer
+379457,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134799 - WARD-20  ODETTY SOUTH PADASEKHARAM  VAZHAPALLY,9.44698,76.50346,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-04-2024,24-05-2024,NA,NA,4,Summer
+379458,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134798 - WARD 4 THAKAZHY,9.384177,76.421358,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-04-2024,24-05-2024,NA,NA,4,Summer
+379459,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134797 - WARD 7 AMBALAPPUZHA NORTH,9.406405,76.356791,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-04-2024,24-05-2024,NA,NA,4,Summer
+379460,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134796 - WARD 3 CHERUTHANA,9.324581,76.452046,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-04-2024,24-05-2024,NA,NA,4,Summer
+379461,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_134795 - KERALA 24 - WARD 1 EDATHUA  CHAMPAKULAM,9.411045,76.447921,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,09-04-2024,24-05-2024,NA,NA,4,Summer
+379455,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Regional Poultry Farm  Hotwar,23.387,85.386,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,04-04-2024,24-05-2024,NA,NA,4,Summer
+377371,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Regional Poultry Hatchery  Seminary Hills,21.16137,79.04288,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-02-2024,10-04-2024,NA,NA,2,Winter
+377373,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,OB_133869 - AP - GUMMALADIBBA,14.509253,79.968125,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-02-2024,10-04-2024,NA,NA,2,Winter
+377372,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,OB_133868 - ANDHRA PRADESH - CHATAGOTLA PODALAKUR,14.387817,79.766798,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-02-2024,10-04-2024,NA,NA,2,Winter
+365544,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Gorai  Borivali Mumbai,19.23362,72.80541,WOAH (former OIE),Confirmed,Wild,Phasianidae (Unidentified):Phasianidae (Incognita)(Phasianidae),05-09-2023,24-10-2023,NA,NA,9,Monsoon
+365544,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Gorai  Borivali Mumbai,19.23362,72.80541,WOAH (former OIE),Confirmed,Wild,Black Swan:cygnus Atratus(Anatidae),05-09-2023,24-10-2023,NA,NA,9,Monsoon
+352912,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Agri Gold Farm  Kaliganj ,25.750341,87.54004,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-04-2023,09-05-2023,NA,NA,4,Summer
+352913,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Regional Poultry Farm  Barari  Jagdishpir Ward 28,25.262772,87.013378,WOAH (former OIE),Confirmed,Domestic,Chicken,17-03-2023,09-05-2023,NA,NA,3,Summer
+369678,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Jail More  Ward No.19  Ranchi Municipal Coorporation,23.37881,85.32823,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-02-2023,19-12-2023,NA,NA,2,Winter
+365554,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126634 - WARD NO. 24 THURUVALLA,9.370921,76.572023,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-01-2023,24-10-2023,NA,NA,1,Winter
+365555,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126635 - WARD 9 NEDUMPURAM,9.36385,76.56018,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-01-2023,24-10-2023,NA,NA,1,Winter
+365553,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126633 - WARD 14 KOCHUPARAMBIL  KAVANADY,9.515615,76.535319,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-01-2023,24-10-2023,NA,NA,1,Winter
+365550,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126630 - ICAR-KVK  ALAPPUZHA  CPCRI  KAYAMLULAM,9.1482,76.5134,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2023,24-10-2023,NA,NA,1,Winter
+365551,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126631 - WARD 34 THIRUVALLA,9.382747,76.570442,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2023,24-10-2023,NA,NA,1,Winter
+365552,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126632 - WARD NO. 38 THIRUVALLA MUNICIPALITY,9.39949,76.57128,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2023,24-10-2023,NA,NA,1,Winter
+365549,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126629 - WARD 2  NEDUMPURAM,9.374,76.5294,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,12-01-2023,24-10-2023,NA,NA,1,Winter
+365548,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126628 - WARD 11 KAVALAM  VELLYANAD,9.47033,76.457405,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,09-01-2023,24-10-2023,NA,NA,1,Winter
+365547,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126627 - WARD NO. 6 PUNNAPRA SOUTH AMBALAPUZHA,9.432931,76.355535,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-01-2023,24-10-2023,NA,NA,1,Winter
+365546,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126626 - WARD NO.22 CHATHAMANGALAM,11.320969,75.93078,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-01-2023,24-10-2023,NA,NA,1,Winter
+365545,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,OB_126625 - WRAD NO.8 PALLTHURUTHY,9.48992,76.364395,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2023,24-10-2023,NA,NA,1,Winter
+320221,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Chapkahi  Ward No. 11  Piprakhurd Panchayat,26.10138,86.55111,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,30-03-2022,22-04-2022,NA,NA,3,Summer
+314529,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Vatar,19.44189,72.77522,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-02-2022,25-02-2022,NA,NA,2,Winter
+314531,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Agashi(Arnala) ,19.45003,72.755918,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-02-2022,25-02-2022,NA,NA,2,Winter
+314530,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Vehloli  Vashind,19.41684,73.29618,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-02-2022,25-02-2022,NA,NA,2,Winter
+313526,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Poultry Research and Training Centre  BASU  Patna,25.59,85.0966,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2022,18-02-2022,NA,NA,1,Winter
+314135,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Nalupadam  Ambalapuzha(N),9.30654,76.4685,WOAH (former OIE),Confirmed,Domestic,Duck,31-12-2021,21-02-2022,NA,NA,12,Winter
+314132,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Kanjipadam  Ambalapuzha(N) ,9.41099,76.37235,WOAH (former OIE),Confirmed,Domestic,Duck,20-12-2021,21-02-2022,NA,NA,12,Winter
+314120,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Nalupadam  Ambalapuzha(N),9.41768,76.36165,WOAH (former OIE),Confirmed,Domestic,Duck,19-12-2021,21-02-2022,NA,NA,12,Winter
+314137,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Nalupadam  Ambalapuzha(N),9.41715,76.35893,WOAH (former OIE),Confirmed,Domestic,Duck,17-12-2021,21-02-2022,NA,NA,12,Winter
+314124,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vadakkepallippadam Kumarakom Panchayat,9.62082,76.43694,WOAH (former OIE),Confirmed,Domestic,Duck,10-12-2021,21-02-2022,NA,NA,12,Winter
+314134,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vadakkepallippadam  Kurarakom Panchayat,9.62082,76.43694,WOAH (former OIE),Confirmed,Domestic,Duck,10-12-2021,21-02-2022,NA,NA,12,Winter
+314136,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No. 1 Karuvatta,9.32893,76.40373,WOAH (former OIE),Confirmed,Domestic,Duck,06-12-2021,21-02-2022,NA,NA,12,Winter
+314123,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No. 1  Nedumudy ,9.44113,76.39562,WOAH (former OIE),Confirmed,Domestic,Duck,05-12-2021,21-02-2022,NA,NA,12,Winter
+314131,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No. 3 Cheruthana,9.32432,76.45214,WOAH (former OIE),Confirmed,Domestic,Duck,03-12-2021,21-02-2022,NA,NA,12,Winter
+314119,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward 12 Purakkad,9.33402,76.3865,WOAH (former OIE),Confirmed,Domestic,Duck,01-12-2021,21-02-2022,NA,NA,12,Winter
+314121,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Kallara Panchayat Vendhakary Kizhakkechira,9.723821,76.4415,WOAH (former OIE),Confirmed,Domestic,Duck,01-12-2021,21-02-2022,NA,NA,12,Winter
+314122,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No.1 Karuvatta,9.34567,76.40164,WOAH (former OIE),Confirmed,Domestic,Duck,01-12-2021,21-02-2022,NA,NA,12,Winter
+314126,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,R Raghu  Ayamanam Panchayat  Ikarashala Paadashekharam,9.625587,76.478303,WOAH (former OIE),Confirmed,Domestic,Duck,01-12-2021,21-02-2022,NA,NA,12,Winter
+314130,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vidynathan  Aymanam Panchayat  Ikarashala Paadashekharam,9.625587,76.478303,WOAH (former OIE),Confirmed,Domestic,Duck,01-12-2021,21-02-2022,NA,NA,12,Winter
+314125,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No 1 Karuvatta,9.34154,76.42215,WOAH (former OIE),Confirmed,Domestic,Duck,30-11-2021,21-02-2022,NA,NA,11,Autumn
+314127,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Ward No.1 Karuvatta,9.3421,76.4221,WOAH (former OIE),Confirmed,Domestic,Duck,29-11-2021,21-02-2022,NA,NA,11,Autumn
+314128,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Madanan  Vechoor Panchayat Kattamada,9.67966,76.4365,WOAH (former OIE),Confirmed,Domestic,Duck,29-11-2021,21-02-2022,NA,NA,11,Autumn
+314129,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vechoor Panchayat Kattamada ,9.67966,76.43651,WOAH (former OIE),Confirmed,Domestic,Duck,29-11-2021,21-02-2022,NA,NA,11,Autumn
+314133,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vechoor Panchayat Kattamada,9.67966,76.4365,WOAH (former OIE),Confirmed,Domestic,Duck,29-11-2021,21-02-2022,NA,NA,11,Autumn
+308493,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Urban Area (Mutton Market),23.718039,76.012809,WOAH (former OIE),Confirmed,Wild,Crow,28-11-2021,07-12-2021,NA,NA,11,Autumn
+309176,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Madiyilakari  Thakazy  Champakulam,9.349968,76.40387,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-11-2021,16-12-2021,NA,NA,11,Autumn
+308492,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Rajasthan,Sambhar Lake,26.907907,75.1873,WOAH (former OIE),Confirmed,Wild,Crow,18-11-2021,07-12-2021,NA,NA,11,Autumn
+307567,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Rajasthan,Kaparda,26.239009,73.436642,WOAH (former OIE),Confirmed,Wild,Crane,06-11-2021,26-11-2021,NA,NA,11,Autumn
+303271,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Neri Dungaon  Kamptee,21.1806,79.109,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,05-04-2021,11-09-2021,NA,NA,4,Summer
+303277,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Vanjarwadi  Parali Vaijanath,18.8834,76.3133,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-03-2021,11-09-2021,NA,NA,3,Summer
+303280,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Aundha Nagnath  Ankhali,19.43,77.11,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-03-2021,11-09-2021,NA,NA,3,Summer
+303260,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Dhiman Poultry Farm  Dhankhed,20.8628,77.839,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,25-02-2021,11-09-2021,NA,NA,2,Winter
+303261,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Tidi Pimpalgaon/ Selu,19.3579,76.4392,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,25-02-2021,11-09-2021,NA,NA,2,Winter
+303258,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Ramewadi  Parli,18.8527,76.5251,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-02-2021,11-09-2021,NA,NA,2,Winter
+303259,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,IPDB Palghar,19.6892,72.7661,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-02-2021,11-09-2021,NA,NA,2,Winter
+303291,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Asolwadi,19.6944,77.3067,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,17-02-2021,11-09-2021,NA,NA,2,Winter
+303293,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Pashane,19.4521,73.328,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-02-2021,11-09-2021,NA,NA,2,Winter
+303249,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Dhayari  Mawal,18.7842,73.5571,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-02-2021,11-09-2021,NA,NA,2,Winter
+303250,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Azadnagar,18.3944,77.1206,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-02-2021,11-09-2021,NA,NA,2,Winter
+303246,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,Sakola,23.0938,83.1307,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-02-2021,11-09-2021,NA,NA,2,Winter
+303264,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Mhape NMMNC,19.1178,73.0175,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-01-2021,11-09-2021,NA,NA,1,Winter
+303284,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Ghansoli  Rabale,19.1292,73.0013,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-01-2021,11-09-2021,NA,NA,1,Winter
+303247,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Shinodi Survey No. 203 Sangammer,19.327,74.374,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303248,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Salumbre  Mawal,18.6568,73.6988,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303252,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Bhankhed  Chikhali,20.5365,76.1804,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303253,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Krushnapur,19.5472,77.4131,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303254,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Sade Survey No. 360/1,19.3288,74.6904,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303256,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Ganeshwadi,17.5132,75.415,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303257,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Neptagaon,17.6686,75.3197,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303266,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Gandhinagar Survey No. 62 Wathoda  Balgan,20.6901,73.9475,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303268,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Pimpalgaon Chambhare,20.4998,77.3076,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303294,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Degaon Tanda  Sheritand,18.4443,77.3743,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-01-2021,11-09-2021,NA,NA,1,Winter
+303288,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Ujona,20.3213,77.7683,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-01-2021,11-09-2021,NA,NA,1,Winter
+303289,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Sawargad,20.3952,78.128,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-01-2021,11-09-2021,NA,NA,1,Winter
+303285,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Pimpari Khurd,19.5039,77.4288,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2021,11-09-2021,NA,NA,1,Winter
+303295,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Nimba,21.2137,80.3326,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2021,11-09-2021,NA,NA,1,Winter
+303296,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Dhundi,19.9102,77.569,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-01-2021,11-09-2021,NA,NA,1,Winter
+303265,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Chikhali,18.8882,77.34044,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303267,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Gadchiroli,20.1922,80.0044,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303269,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Davangaon  Renapur,18.5916,76.5011,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303275,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Atali,19.16,73.1018,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303276,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Warwati,18.785,76.4691,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303279,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Waranga,20.9509,79.039,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303281,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Rayate,19.1529,73.1336,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303282,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Mariaichi Wadi/ Khandala,18.0356,74.0125,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+303283,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Talahari,19.3315,78.0762,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-01-2021,11-09-2021,NA,NA,1,Winter
+287629,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,Chhaati,20.679774,81.08358,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-01-2021,01-02-2021,NA,NA,1,Winter
+303274,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Central Poultry Development Organisation  Aarey Colony  Goregaon,19.142,72.8768,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,12-01-2021,11-09-2021,NA,NA,1,Winter
+287631,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Jangalgi,17.305983,75.496979,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,01-02-2021,NA,NA,1,Winter
+303251,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Chande/ Mulshi,18.505,73.5181,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303255,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Navandyachiwadi,18.811,77.2689,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303262,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,IPDB  Pen,18.7375,73.0944,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303263,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Lokhandisawargaon  Ambejogai,18.7021,77.4977,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303270,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Mauje Baribe,18.407,74.6738,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303272,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Kenderwadi,18.6112,76.7481,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303273,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Kupta  Selu,19.4464,76.6084,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303278,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Pedgaon,19.3144,76.6675,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303286,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Tondar,18.4215,77.0521,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303287,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Sukani,18.5277,77.0399,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303290,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Umra Tanda  Paplawadi  Mahur,19.8345,77.9657,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+303292,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khurdwadi,18.2716,76.4708,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-01-2021,11-09-2021,NA,NA,1,Winter
+287628,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Punjab,Siswan Dam Catchment Area,30.873631,76.76059,WOAH (former OIE),Confirmed,Wild,Goose,08-01-2021,01-02-2021,NA,NA,1,Winter
+287630,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Kainakary,9.469263,76.366434,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-01-2021,01-02-2021,NA,NA,1,Winter
+286402,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Murumba,19.314108,76.870252,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-01-2021,18-01-2021,NA,NA,1,Winter
+286752,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Murumba,19.314108,76.870252,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-01-2021,16-01-2021,NA,NA,1,Winter
+286401,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Rundipada,23.009,74.56,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-01-2021,18-01-2021,NA,NA,1,Winter
+286449,Influenza - Avian,HPAI,Asia,Southern Asia,India,Himachal Pradesh,Pong Dam Wild life Sanctuary,32.02966,75.96,National authorities,Confirmed,Wild,Unspecified Bird,06-01-2021,18-01-2021,NA,NA,1,Winter
+286753,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Rundipada,23.009,74.56,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-01-2021,16-01-2021,NA,NA,1,Winter
+286454,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Siddharth Poultry Farm,30.56125,76.99781,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2021,15-01-2021,NA,NA,1,Winter
+286455,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Nature Poultry Farm,30.56452,77.05438,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2021,15-01-2021,NA,NA,1,Winter
+286750,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Siddharth Poultry Farm,30.56125,76.99781,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2021,15-01-2021,NA,NA,1,Winter
+286751,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Nature Poultry Farm,30.56452,77.05438,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2021,15-01-2021,NA,NA,1,Winter
+287145,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Near Sai Temple Agar,23.718039,76.012809,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),01-01-2021,24-01-2021,NA,NA,1,Winter
+287161,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Rajasthan,SDM Residence Area,24.6496,75.9434,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),01-01-2021,23-01-2021,NA,NA,1,Winter
+287162,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Rajasthan,DARA Forest Range Office,24.834,76.0065,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),01-01-2021,23-01-2021,NA,NA,1,Winter
+287627,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Daman and Diu,Dolasa Revenue Area,20.793232,70.855979,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-01-2021,01-02-2021,NA,NA,1,Winter
+303853,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Tara Poultry Farm  Batour  Barwala,30.5472,76.9566,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-01-2021,21-09-2021,NA,NA,1,Winter
+303854,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,Maharaja Poultry Farm  Khatouli  Barwala,30.5905,76.9729,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-01-2021,21-09-2021,NA,NA,1,Winter
+286194,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Neendoor,9.671296,76.498461,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,28-12-2020,09-01-2021,NA,NA,12,Winter
+286193,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Karuvatta,9.3107,76.4305,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,27-12-2020,09-01-2021,NA,NA,12,Winter
+287144,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Tehsil Complex,24.0758,75.0761,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),27-12-2020,24-01-2021,NA,NA,12,Winter
+287144,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Tehsil Complex,24.0758,75.0761,WOAH (former OIE),Confirmed,Wild,Crow,27-12-2020,24-01-2021,NA,NA,12,Winter
+287160,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Rajasthan,Radi Ke Bajaji Temple,26.93219,75.81727,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),25-12-2020,23-01-2021,NA,NA,12,Winter
+287160,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Rajasthan,Radi Ke Bajaji Temple,26.93219,75.81727,WOAH (former OIE),Confirmed,Wild,Crow,25-12-2020,23-01-2021,NA,NA,12,Winter
+286191,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Nedumudy,9.40136,76.36269,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,22-12-2020,09-01-2021,NA,NA,12,Winter
+286192,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Thakazhy,9.3707,76.4115,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,22-12-2020,09-01-2021,NA,NA,12,Winter
+286190,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Pallippad,9.2804,76.4819,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-12-2020,09-01-2021,NA,NA,12,Winter
+303606,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Kudavechoor,9.6603,76.4244,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-11-2020,21-09-2021,NA,NA,11,Autumn
+273369,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Near Ambha Block Porsa Nagar Palika,26.6711,78.3723,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),22-03-2020,02-06-2020,NA,NA,3,Summer
+273370,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Near Railway Station Rithi,23.9048,80.1403,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),22-03-2020,02-06-2020,NA,NA,3,Summer
+273368,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Collectorate Bungalow & BTI School,26.5724,78.7902,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),20-03-2020,02-06-2020,NA,NA,3,Summer
+273460,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Saidpur Hostel,25.6068,85.1652,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),19-03-2020,03-06-2020,NA,NA,3,Summer
+273459,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,High Court Campus,25.6089,85.1254,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),18-03-2020,03-06-2020,NA,NA,3,Summer
+273277,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Meat Market,26.4929,78.6141,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-03-2020,02-06-2020,NA,NA,3,Summer
+273276,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Kumbarkoppalu,12.346262,76.633219,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,12-03-2020,02-06-2020,NA,NA,3,Summer
+273275,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Bannikode,14.46394,75.84776,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-03-2020,02-06-2020,NA,NA,3,Summer
+273278,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Beerankutty Valiya,11.2076,75.8204,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-03-2020,02-06-2020,NA,NA,3,Summer
+273458,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Chainpura,25.4989,84.859,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),05-03-2020,03-06-2020,NA,NA,3,Summer
+268618,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vengeri Kozhikkode Corporation,11.300482,75.797846,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,03-03-2020,02-04-2020,NA,NA,3,Summer
+268619,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Abdul Majeed Outhiyottil Egger Nursery West Kodiyathur,11.278953,75.979224,WOAH (former OIE),Confirmed,Domestic,Chicken,03-03-2020,02-04-2020,NA,NA,3,Summer
+273466,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Bhagawan Birsa Biological Park,23.46756,85.45409,WOAH (former OIE),Confirmed,Wild,Unspecified Bird,23-02-2020,02-06-2020,NA,NA,2,Winter
+273466,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Bhagawan Birsa Biological Park,23.46756,85.45409,WOAH (former OIE),Confirmed,Wild,Stork,23-02-2020,02-06-2020,NA,NA,2,Winter
+273466,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Bhagawan Birsa Biological Park,23.46756,85.45409,WOAH (former OIE),Confirmed,Wild,Owl,23-02-2020,02-06-2020,NA,NA,2,Winter
+273457,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,B26,25.597,85.1551,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),15-02-2020,03-06-2020,NA,NA,2,Winter
+268617,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,Mohan Sarai,25.27426,82.87214,WOAH (former OIE),Confirmed,Wild,Crow,08-02-2020,02-04-2020,NA,NA,2,Winter
+265562,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,All India Coordinated Research Project (AICRP) on Poultry Breeding Farm,20.266437,85.815518,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-01-2020,20-02-2020,NA,NA,1,Winter
+263290,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,Government Poultry Farming Region,23.2621,82.5605,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-12-2019,08-01-2020,NA,NA,12,Winter
+250293,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Govt. Duck Breeding Farm,20.443063,85.401419,WOAH (former OIE),Confirmed,Domestic,Duck,23-03-2019,04-04-2019,NA,NA,3,Summer
+248342,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Palojori Police Station,24.1502,86.6397,WOAH (former OIE),Confirmed,Wild,Crow,13-02-2019,07-03-2019,NA,NA,2,Winter
+248341,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Oxygen Park,23.3441,85.3096,WOAH (former OIE),Confirmed,Wild,Crow,07-02-2019,07-03-2019,NA,NA,2,Winter
+247630,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Collector Office Campus  Jehanabad,25.216151,84.996358,WOAH (former OIE),Confirmed,Wild,Crow,01-02-2019,21-02-2019,NA,NA,2,Winter
+247631,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,DC Campus  Godda,24.8255,87.2135,WOAH (former OIE),Confirmed,Wild,Crow,28-01-2019,22-02-2019,NA,NA,1,Winter
+247632,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Gomia,23.8081,85.8233,WOAH (former OIE),Confirmed,Wild,Crow,28-01-2019,22-02-2019,NA,NA,1,Winter
+247662,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Fajilkhutahari,25.180833,87.349167,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,25-01-2019,16-02-2019,NA,NA,1,Winter
+244809,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Nandala,19.485,85.17305,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-12-2018,28-12-2018,NA,NA,12,Winter
+244981,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Cuttack municipality,20.454265,85.879212,WOAH (former OIE),Confirmed,Wild,Crow,18-12-2018,07-01-2019,NA,NA,12,Winter
+244961,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Nuagaon  Kantabania & Udayagiri,19.539743,85.232267,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,17-12-2018,04-01-2019,NA,NA,12,Winter
+244962,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Naba,19.547775,85.267157,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,17-12-2018,04-01-2019,NA,NA,12,Winter
+244980,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Muthagadia,20.1153,85.0725,WOAH (former OIE),Confirmed,Wild,Crow,16-12-2018,07-01-2019,NA,NA,12,Winter
+244978,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Mubarakchak,25.3652,86.4922,WOAH (former OIE),Confirmed,Wild,Crow,15-12-2018,07-01-2019,NA,NA,12,Winter
+244979,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Patna (Sanjay Gandhi Zoological Park),25.59945,85.09889,WOAH (former OIE),Confirmed,Wild,Phasianidae (Unidentified):Phasianidae (Incognita)(Phasianidae),15-12-2018,07-01-2019,NA,NA,12,Winter
+244807,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Kanheipur (Harijansahi),19.57919,85.27755,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-12-2018,28-12-2018,NA,NA,12,Winter
+244808,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Epinga (Bauripalli),19.62541,85.25196,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,10-12-2018,28-12-2018,NA,NA,12,Winter
+243942,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Budhibara(Sanasahi) and Patharagang,19.56816,85.241236,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-12-2018,14-12-2018,NA,NA,12,Winter
+244551,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Alanda and Siala,19.6275,85.30194444,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),07-12-2018,15-12-2018,NA,NA,12,Winter
+244805,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Brahmandeo,19.49888,85.193611,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-12-2018,28-12-2018,NA,NA,12,Winter
+244806,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Malud,19.555775,85.247881,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-12-2018,28-12-2018,NA,NA,12,Winter
+244811,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Goraho,25.191151,86.62709,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,15-11-2018,28-12-2018,NA,NA,11,Autumn
+235377,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,Hardi Dali,27.44694444,83.41638889,WOAH (former OIE),Confirmed,Wild,Crow,23-03-2018,06-04-2018,NA,NA,3,Summer
+234366,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Paradeep,20.31638889,86.61166667,WOAH (former OIE),Confirmed,Wild,House Crow (Corvus Splendens),11-02-2018,01-03-2018,NA,NA,2,Winter
+234457,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Jagatsinghpur,20.31638889,86.61166667,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,11-02-2018,07-03-2018,NA,NA,2,Winter
+232863,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Karnataka,Dasarahalli  Dasarahalli/ Bengaluru East  Bengaluru Urban,13.094694,77.836243,National authorities,Confirmed,Domestic,Chicken,26-12-2017,02-01-2018,NA,NA,12,Winter
+224176,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,State Poultry Breeding and Research Farm  Angul,20.5,85.09,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,30-01-2017,22-02-2017,NA,NA,1,Winter
+221462,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Gujarat,Memnagar Rescue Center  Servadharam,23.01,72.34,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2017,13-01-2017,NA,NA,1,Winter
+221466,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Kacharu village,22.17,84.49,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,02-01-2017,07-01-2017,NA,NA,1,Winter
+221413,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Gujarat,Hathijan  Asha Foundation,22.56,72.39,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,31-12-2016,08-01-2017,NA,NA,12,Winter
+222840,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Karnataka,Sri Chamarajendra Zoological Gardens  Mysuru,12.18,76.39,WOAH (former OIE),Confirmed,Wild,Greylag Goose,28-12-2016,19-01-2017,NA,NA,12,Winter
+221467,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Daman and Diu,Daman,20.420079,72.833739,WOAH (former OIE),Confirmed,Domestic,Chicken,22-12-2016,08-01-2017,NA,NA,12,Winter
+221111,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Keranga ,20.31,86.07,WOAH (former OIE),Confirmed,Wild,Crow,19-12-2016,27-12-2016,NA,NA,12,Winter
+221111,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Keranga ,20.31,86.07,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-12-2016,27-12-2016,NA,NA,12,Winter
+221847,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Keranga,20.31,86.07,WOAH (former OIE),Confirmed,Wild,Crow,19-12-2016,27-12-2016,NA,NA,12,Winter
+222823,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Gujarat,Wadhawana Lake,22.17,73.1,WOAH (former OIE),Confirmed,Wild,Greylag Goose,05-12-2016,17-01-2017,NA,NA,12,Winter
+221993,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Kumarakom,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-11-2016,12-01-2017,NA,NA,11,Autumn
+221992,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Ambalappuzha South,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,23-11-2016,12-01-2017,NA,NA,11,Autumn
+221991,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Karuvatta,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,17-11-2016,12-01-2017,NA,NA,11,Autumn
+221989,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Punnappra South,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-11-2016,12-01-2017,NA,NA,11,Autumn
+221990,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Thalavady,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-11-2016,12-01-2017,NA,NA,11,Autumn
+218549,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,Madipur Lake,28.66,77.12,National authorities,Confirmed,Wild,Wild Duck,03-11-2016,04-11-2016,NA,NA,11,Autumn
+221988,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Purakkad,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-11-2016,12-01-2017,NA,NA,11,Autumn
+218548,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,lue Bird Restaurant of Haryana Tourism,29.243179,75.808783,National authorities,Confirmed,Domestic,Duck,31-10-2016,04-11-2016,NA,NA,10,Autumn
+221987,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Vechur,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,31-10-2016,12-01-2017,NA,NA,10,Autumn
+221985,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Pulincunnu,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-10-2016,12-01-2017,NA,NA,10,Autumn
+221986,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Chennithala,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-10-2016,12-01-2017,NA,NA,10,Autumn
+221982,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Champakkulam,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,27-10-2016,12-01-2017,NA,NA,10,Autumn
+221983,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Edathua,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,27-10-2016,12-01-2017,NA,NA,10,Autumn
+221984,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Veeyapuram,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,27-10-2016,12-01-2017,NA,NA,10,Autumn
+221978,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Nedumudy,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-10-2016,12-01-2017,NA,NA,10,Autumn
+221979,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Ambalapuzha North,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-10-2016,12-01-2017,NA,NA,10,Autumn
+221980,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Aymanam,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-10-2016,12-01-2017,NA,NA,10,Autumn
+221981,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Arpookkara,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,26-10-2016,12-01-2017,NA,NA,10,Autumn
+221976,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Neelamperoor,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-10-2016,12-01-2017,NA,NA,10,Autumn
+221977,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Pallippad,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,24-10-2016,12-01-2017,NA,NA,10,Autumn
+218499,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Punjab,Rajpura in Patiala,30.29,76.35,National authorities,Confirmed,Domestic,Duck,23-10-2016,30-10-2016,NA,NA,10,Autumn
+218538,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala, Ramankary ,9.25,76.5,WOAH (former OIE),Confirmed,Wild,Unspecified Bird,23-10-2016,26-10-2016,NA,NA,10,Autumn
+221975,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Cheruthana,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,22-10-2016,12-01-2017,NA,NA,10,Autumn
+221974,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Veliyanad,9.49508,76.40282,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-10-2016,12-01-2017,NA,NA,10,Autumn
+218137,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Thakazhy,9.22,76.5,WOAH (former OIE),Confirmed,Wild,Unspecified Bird,19-10-2016,26-10-2016,NA,NA,10,Autumn
+221971,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Thalayazham,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-10-2016,12-01-2017,NA,NA,10,Autumn
+221972,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Neendoor,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-10-2016,12-01-2017,NA,NA,10,Autumn
+221973,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Kerala,Paippad,9.62228,76.64191,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,19-10-2016,12-01-2017,NA,NA,10,Autumn
+222839,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Gwalior,26.12,78.1,WOAH (former OIE),Confirmed,Wild,Stork,18-10-2016,19-01-2017,NA,NA,10,Autumn
+222838,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Haryana,New Delhi,28.36,77.14,WOAH (former OIE),Confirmed,Wild,Unspecified Bird,14-10-2016,19-01-2017,NA,NA,10,Autumn
+212034,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Molkera,17.54,77.3,WOAH (former OIE),Confirmed,Domestic,Chicken,01-05-2016,12-05-2016,NA,NA,5,Summer
+209803,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,State Poultry Farm  Gandhigram,23.54,91.24,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,07-01-2016,19-01-2016,NA,NA,1,Winter
+201955,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Andhra Pradesh,Thorrur  Hayathnagar,17.24,77.5,National authorities,Confirmed,Domestic,Unspecified Bird,12-04-2015,14-04-2015,NA,NA,4,Summer
+202132,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Manipur,Lamphelpat City,24.49,93.54,FAO Field Officer,Confirmed,Domestic,Unspecified Bird,06-04-2015,20-04-2015,NA,NA,4,Summer
+201449,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,Pahadpur Gaderiya Deeh  Musafirkhana  Amethi,26.09,81.48,WOAH (former OIE),Confirmed,Wild,Crow,20-03-2015,23-03-2015,NA,NA,3,Summer
+201604,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,Haliapur,26.15,82.04,WOAH (former OIE),Confirmed,Wild,Crow,20-03-2015,23-03-2015,NA,NA,3,Summer
+201427,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Uttar Pradesh,Sari Ka Purwa  Shukul Bazaar  Amethi,26.09,81.48,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,04-03-2015,18-03-2015,NA,NA,3,Summer
+199532,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Alleppey,9.460415206,76.34,WOAH (former OIE),Confirmed,Domestic,Turkey,18-01-2015,28-01-2015,NA,NA,1,Winter
+198132,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Punjab,Sukhna Lake  the Chandigarh Forest and Wildlife Department,30.44,76.49,WOAH (former OIE),Confirmed,Domestic,Duck,11-12-2014,17-12-2014,NA,NA,12,Winter
+197929,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Vilakkumaram,9.33,76.4,WOAH (former OIE),Confirmed,Domestic,Duck,28-11-2014,04-12-2014,NA,NA,11,Autumn
+196949,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Parippu Aimananam,9.622276,76.641912,National authorities,Confirmed,Domestic,Duck,20-11-2014,25-11-2014,NA,NA,11,Autumn
+197089,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Purakkad & Thalavady,9.495081,76.402822,National authorities,Confirmed,Domestic,Duck,20-11-2014,25-11-2014,NA,NA,11,Autumn
+197861,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Kerala,Chennithala  Alappuzha,9.495081,76.402822,WOAH (former OIE),Confirmed,Domestic,Duck,20-11-2014,03-12-2014,NA,NA,11,Autumn
+182960,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Joda  Bileipada  Keonjhar,21.37,85.34,WOAH (former OIE),Confirmed,Wild,Crow,31-01-2014,21-02-2014,NA,NA,1,Winter
+177396,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,Anjora ,21.11,81.16,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,30-07-2013,05-08-2013,NA,NA,7,Monsoon
+177397,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Chhattisgarh,Jagadalpur ,19.05,81.58,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,30-07-2013,05-08-2013,NA,NA,7,Monsoon
+175027,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Madhubani,25.778596,87.407141,WOAH (former OIE),Confirmed,Domestic,Chicken,27-02-2013,10-03-2013,NA,NA,2,Winter
+173454,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Hessaraghatta (poultry unit at Tammarasanahalli),13.161037,77.488839,Media,Denied,Domestic,Chicken,05-11-2012,05-11-2012,NA,NA,11,Autumn
+173198,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Hessarghatta,13.04,77.3,WOAH (former OIE),Confirmed,Domestic,Turkey,12-10-2012,29-10-2012,NA,NA,10,Autumn
+170504,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Udaipur,23.32,91.29,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,18-04-2012,19-04-2012,NA,NA,4,Summer
+168334,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,State Poultry Farm  Gandhigram,23.79068205,91.45238797,WOAH (former OIE),Confirmed,Domestic,Chicken,07-03-2012,10-03-2012,NA,NA,3,Summer
+167306,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Nayapalli (Ward No. 10) of Bhubaneswar Municipality,20.28,85.79,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,01-02-2012,04-02-2012,NA,NA,2,Winter
+166952,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Mohanpur,23.58,91.21,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-01-2012,22-01-2012,NA,NA,1,Winter
+167308,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Fatehpur,24.46,84.58,WOAH (former OIE),Confirmed,Wild,Crow,10-01-2012,06-02-2012,NA,NA,1,Winter
+166790,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Bahanada,21.55,86.44,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,06-01-2012,18-01-2012,NA,NA,1,Winter
+166612,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Meghalaya,William Nagar,25.31,90.13,WOAH (former OIE),Confirmed,Domestic,Chicken,04-01-2012,10-01-2012,NA,NA,1,Winter
+166622,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Keranga,20.11,85.37,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,03-01-2012,11-01-2012,NA,NA,1,Winter
+167309,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Mayurbhanj,21.55,86.44,WOAH (former OIE),Confirmed,Wild,Crow,03-01-2012,06-02-2012,NA,NA,1,Winter
+167311,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Sadak Arjuni,21.27,80.11,WOAH (former OIE),Confirmed,Wild,Crow,03-01-2012,06-02-2012,NA,NA,1,Winter
+166067,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Jharkhand,Jamshedpur,22.8,86.183334,National authorities,Confirmed,Wild,Crow,27-11-2011,29-11-2011,NA,NA,11,Autumn
+167310,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Jamshedpur,22.48,86.12,WOAH (former OIE),Confirmed,Wild,Crow,30-10-2011,06-02-2012,NA,NA,10,Autumn
+164907,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Tehatta-1,23.43,88.31,WOAH (former OIE),Confirmed,Domestic,Chicken,14-09-2011,19-09-2011,NA,NA,9,Monsoon
+164701,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Bhamondanga Pt-1,25.943965,89.966715,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-08-2011,08-09-2011,NA,NA,8,Monsoon
+160348,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,State Poultry Farm  Gandhigram,23.89872,91.29577,WOAH (former OIE),Confirmed,Domestic,Chicken,04-03-2011,07-03-2011,NA,NA,3,Summer
+158702,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,State Duck & Poultry Farm  RK Nagar,23.8674,91.35075,WOAH (former OIE),Confirmed,Domestic,Chicken,03-02-2011,17-02-2011,NA,NA,2,Winter
+151599,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Alinagar Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,30-01-2010,30-01-2010,NA,NA,1,Winter
+151587,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Jhajra Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,29-01-2010,29-01-2010,NA,NA,1,Winter
+151588,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Sankarpur Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,29-01-2010,29-01-2010,NA,NA,1,Winter
+151540,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Pathai Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,19-01-2010,23-01-2010,NA,NA,1,Winter
+151541,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Dhamalipara Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,19-01-2010,23-01-2010,NA,NA,1,Winter
+151597,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Diara Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,18-01-2010,30-01-2010,NA,NA,1,Winter
+151598,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Ramchandrapur Village  Khargram Block,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,18-01-2010,30-01-2010,NA,NA,1,Winter
+151507,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Faridpur Village  Burwan Block,24.1833,88.2667,National authorities,Confirmed,Domestic,Unspecified Bird,17-01-2010,20-01-2010,NA,NA,1,Winter
+151505,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Haripur  Khargram,24.0333,87.9833,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,14-01-2010,20-01-2010,NA,NA,1,Winter
+151506,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Ninur  Khargram,24.0333,87.9833,National authorities,Confirmed,Domestic,Unspecified Bird,14-01-2010,20-01-2010,NA,NA,1,Winter
+151523,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Badua Village  Burwan Block,24.1833,88.2667,National authorities,Confirmed,Domestic,Unspecified Bird,14-01-2010,20-01-2010,NA,NA,1,Winter
+151524,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Kharjuna Village  Burwan Block,24.1833,88.2667,National authorities,Confirmed,Domestic,Unspecified Bird,14-01-2010,20-01-2010,NA,NA,1,Winter
+151525,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Simulia Village  Burwan Block,24.1833,88.2667,National authorities,Confirmed,Domestic,Unspecified Bird,14-01-2010,20-01-2010,NA,NA,1,Winter
+151298,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Hazrabati  Khargram,24.0333,87.9833,FAO Field Officer,Confirmed,Domestic,Unspecified Bird,12-01-2010,14-01-2010,NA,NA,1,Winter
+151504,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Nagar  Khargram,24.0333,87.9833,FAO Field Officer,Confirmed,Domestic,Unspecified Bird,12-01-2010,14-01-2010,NA,NA,1,Winter
+151215,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Kaziranga,26.6,93.4666667,FAO Field Officer,Denied,Wild,Bar-Headed Goose,07-01-2010,08-01-2010,NA,NA,1,Winter
+151024,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Burdwan,23.25,87.85,National authorities,Denied,Domestic,Unspecified Bird,30-12-2009,30-12-2009,NA,NA,12,Winter
+132562,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Hemtabad,25.4,88.13,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,20-05-2009,28-05-2009,NA,NA,5,Summer
+131156,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Chopra,25.27,88.1,National authorities,Confirmed,Domestic,Unspecified Bird,17-03-2009,27-03-2009,NA,NA,3,Summer
+130998,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Darjiling,26.891367,88.35495,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,08-03-2009,12-03-2009,NA,NA,3,Summer
+130668,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Harirampur,22.69488,87.67501,National authorities,Confirmed,Domestic,Unspecified Bird,14-02-2009,18-02-2009,NA,NA,2,Winter
+130700,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Darjiling,26.891367,88.35495,National authorities,Confirmed,Domestic,Unspecified Bird,13-02-2009,24-02-2009,NA,NA,2,Winter
+130283,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Koch Bihar,26.2566833,89.1463165,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-01-2009,02-02-2009,NA,NA,1,Winter
+130348,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Dinhata-I,26.07,89.28,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,29-01-2009,02-02-2009,NA,NA,1,Winter
+130317,Influenza - Avian,HPAI,Asia,Southern Asia,India,Sikkim,North Sikkim,27.51845,88.53719,FAO officer,Denied,Domestic,Unspecified Bird,27-01-2009,29-01-2009,NA,NA,1,Winter
+130316,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Himachal,19.10943,72.84134,FAO Field Officer,Denied,Wild,Bar-Headed Goose,25-01-2009,29-01-2009,NA,NA,1,Winter
+130316,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Himachal,19.10943,72.84134,FAO Field Officer,Denied,Wild,Duck,25-01-2009,29-01-2009,NA,NA,1,Winter
+129968,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Sikkim,Hospital Road,27.18,88.21,National authorities,Confirmed,Domestic,Unspecified Bird,17-01-2009,19-01-2009,NA,NA,1,Winter
+129968,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Sikkim,Hospital Road,27.18,88.21,National authorities,Confirmed,Domestic,Unspecified Bird,17-01-2009,19-01-2009,NA,NA,1,Winter
+129882,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Rangli Rangliot,26.5,88.12,National authorities,Confirmed,Domestic,Unspecified Bird,02-01-2009,06-01-2009,NA,NA,1,Winter
+129875,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Matigara village,26.73518,88.34655,FAO Field Officer,Confirmed,Domestic,Unspecified Bird,01-01-2009,05-01-2009,NA,NA,1,Winter
+129867,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Tihu Barama,26.23,90.58,National authorities,Confirmed,Domestic,Unspecified Bird,19-12-2008,02-01-2009,NA,NA,12,Winter
+129868,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Dhaligaon,26.28,90.33,National authorities,Confirmed,Domestic,Unspecified Bird,19-12-2008,02-01-2009,NA,NA,12,Winter
+129871,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Barhampur,26.21,92.41,National authorities,Confirmed,Domestic,Unspecified Bird,18-12-2008,02-01-2009,NA,NA,12,Winter
+129869,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Chayani Borduar,26.2,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,17-12-2008,02-01-2009,NA,NA,12,Winter
+129870,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Hajo,26.2,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,17-12-2008,02-01-2009,NA,NA,12,Winter
+129828,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Kheluwapara Pt-II,26.28,90.33,National authorities,Confirmed,Domestic,Unspecified Bird,15-12-2008,16-12-2008,NA,NA,12,Winter
+129837,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Sariha Sakla,26.19,91,National authorities,Confirmed,Domestic,Unspecified Bird,15-12-2008,16-12-2008,NA,NA,12,Winter
+129838,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Kharghuli Jaipur  Ward No.37,26.2,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,15-12-2008,16-12-2008,NA,NA,12,Winter
+129835,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Maldah,25.033333,88.15,National authorities,Confirmed,Domestic,Unspecified Bird,14-12-2008,14-12-2008,NA,NA,12,Winter
+129836,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Narhatta (Malda),25,88.08,National authorities,Confirmed,Domestic,Unspecified Bird,14-12-2008,14-12-2008,NA,NA,12,Winter
+129799,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,EnglishBazar,25,88.08,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,13-12-2008,14-12-2008,NA,NA,12,Winter
+129762,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Ward No. 6  East Revenue Circle,27.28,95.54,National authorities,Confirmed,Domestic,Unspecified Bird,07-12-2008,11-12-2008,NA,NA,12,Winter
+129825,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Bezera Village,26.19646,91.1538,National authorities,Confirmed,Domestic,Unspecified Bird,06-12-2008,11-12-2008,NA,NA,12,Winter
+129761,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Meghalaya,Khanapara,26.1,91.8166667,National authorities,Confirmed,Domestic,Unspecified Bird,05-12-2008,11-12-2008,NA,NA,12,Winter
+129763,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Nalibari,26.35,90.38,National authorities,Confirmed,Domestic,Unspecified Bird,05-12-2008,11-12-2008,NA,NA,12,Winter
+129669,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Sarpara,26.1,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,30-11-2008,01-12-2008,NA,NA,11,Autumn
+129748,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Katajhar,26.5,90.39,National authorities,Confirmed,Domestic,Unspecified Bird,30-11-2008,04-12-2008,NA,NA,11,Autumn
+129750,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Katla,26,91,National authorities,Confirmed,Domestic,Unspecified Bird,30-11-2008,04-12-2008,NA,NA,11,Autumn
+129668,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Patgaon,26.2,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,28-11-2008,01-12-2008,NA,NA,11,Autumn
+129668,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Patgaon,26.2,91.15,National authorities,Confirmed,Domestic,Unspecified Bird,28-11-2008,01-12-2008,NA,NA,11,Autumn
+129628,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Assam,26.15,91.77,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,21-11-2008,26-11-2008,NA,NA,11,Autumn
+128566,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Koch Bihar,26.2566833,89.1463165,Media,Denied,Domestic,Chicken,29-07-2008,30-07-2008,NA,NA,7,Monsoon
+127884,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Bijanbari Bazar,27.0666667,88.2,National authorities,Confirmed,Domestic,Unspecified Bird,15-05-2008,15-05-2008,NA,NA,5,Summer
+127874,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Kursiyong,26.8833333,88.2833333,National authorities,Confirmed,Domestic,Unspecified Bird,01-05-2008,03-06-2008,NA,NA,5,Summer
+127825,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Nadilak,23.9,91.7,National authorities,Confirmed,Domestic,Unspecified Bird,15-04-2008,24-04-2008,NA,NA,4,Summer
+127810,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Hatcarra (OIE),23.9169,91.7541,National authorities,Confirmed,Domestic,Chicken,14-04-2008,21-04-2008,NA,NA,4,Summer
+127661,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Ranaghat,23.1833333,88.5833333,National authorities,Confirmed,Domestic,Unspecified Bird,04-04-2008,04-04-2008,NA,NA,4,Summer
+127642,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Kamalpur ,24.2,91.83,National authorities,Confirmed,Domestic,Unspecified Bird,01-04-2008,07-04-2008,NA,NA,4,Summer
+127642,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Tripura,Kamalpur ,24.2,91.83,National authorities,Confirmed,Domestic,Chicken,01-04-2008,07-04-2008,NA,NA,4,Summer
+127597,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Jalp?iguri,26.5166667,88.7333333,National authorities,Confirmed,Domestic,Unspecified Bird,22-03-2008,27-03-2008,NA,NA,3,Summer
+127410,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Raghunathganj,24.46457,88.05264,National authorities,Confirmed,Domestic,Unspecified Bird,07-03-2008,09-03-2008,NA,NA,3,Summer
+127409,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Jiaganj,24.2333333,88.2666667,National authorities,Confirmed,Domestic,Unspecified Bird,04-03-2008,09-03-2008,NA,NA,3,Summer
+127088,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Canning,22.3188889,88.6713889,National authorities,Confirmed,Domestic,Chicken,02-02-2008,02-02-2008,NA,NA,2,Winter
+127054,Influenza - Avian,HPAI,Asia,Southern Asia,India,Haryana,Bhiwani,28.75,76.1666667,National authorities,Denied,Domestic,Chicken,01-02-2008,01-02-2008,NA,NA,2,Winter
+127066,Influenza - Avian,HPAI,Asia,Southern Asia,India,West Bengal,Takd?h,27.0333333,88.3666667,National authorities,Denied,Domestic,Chicken,31-01-2008,01-02-2008,NA,NA,1,Winter
+127072,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Siuri,23.9166667,87.5333333,National authorities,Confirmed,Domestic,Chicken,30-01-2008,30-01-2008,NA,NA,1,Winter
+127074,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Siuri,23.9166667,87.5333333,National authorities,Confirmed,Domestic,Chicken,30-01-2008,30-01-2008,NA,NA,1,Winter
+127076,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Siuri,23.9166667,87.5333333,National authorities,Confirmed,Domestic,Chicken,30-01-2008,30-01-2008,NA,NA,1,Winter
+126880,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Mayureswar,23.98306,87.76667,National authorities,Confirmed,Domestic,Chicken,27-01-2008,27-01-2008,NA,NA,1,Winter
+126887,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Murshidabad,24.18306,88.26667,National authorities,Confirmed,Domestic,Chicken,27-01-2008,27-01-2008,NA,NA,1,Winter
+126893,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Mathabhanga,26.33306,89.21667,National authorities,Confirmed,Domestic,Chicken,27-01-2008,27-01-2008,NA,NA,1,Winter
+126899,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Budge Budge,22.47472,88.17028,National authorities,Confirmed,Domestic,Chicken,27-01-2008,27-01-2008,NA,NA,1,Winter
+126906,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Debra,22.39972,87.54972,National authorities,Confirmed,Domestic,Chicken,27-01-2008,27-01-2008,NA,NA,1,Winter
+126759,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Mayureswar,23.98306,87.76667,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126766,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Birbhum District,24,87.58306,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126773,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Shankrail,22.55,88.2,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126781,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Sahturi,23.53306,86.84972,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126788,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Murshidabad,24.18306,88.26667,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126914,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Beldanga,23.93306,88.25,National authorities,Confirmed,Domestic,Chicken,25-01-2008,25-01-2008,NA,NA,1,Winter
+126720,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Hooghly,22.75,88.75,National authorities,Confirmed,Domestic,Chicken,23-01-2008,23-01-2008,NA,NA,1,Winter
+126692,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Malda,25,88,National authorities,Confirmed,Domestic,Chicken,22-01-2008,22-01-2008,NA,NA,1,Winter
+126704,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Mejia,23.56667,87.09972,National authorities,Confirmed,Domestic,Chicken,22-01-2008,22-01-2008,NA,NA,1,Winter
+126619,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Cooch Behar,26.25,89.5,National authorities,Confirmed,Domestic,Chicken,21-01-2008,21-01-2008,NA,NA,1,Winter
+126712,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Saltora,23.53306,86.93306,National authorities,Confirmed,Domestic,Chicken,20-01-2008,20-01-2008,NA,NA,1,Winter
+126548,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Nadia District,23.25,88.5,National authorities,Confirmed,Domestic,Chicken,19-01-2008,19-01-2008,NA,NA,1,Winter
+126561,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Burdwan,23.25,87.75,National authorities,Confirmed,Domestic,Chicken,19-01-2008,19-01-2008,NA,NA,1,Winter
+126577,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Bolpur,23.66667,87.71667,National authorities,Confirmed,Domestic,Chicken,19-01-2008,19-01-2008,NA,NA,1,Winter
+126354,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Rampurhat  (OIE),24,88,WOAH (former OIE),Confirmed,Domestic,Chicken,04-01-2008,04-01-2008,NA,NA,1,Winter
+126326,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Birbhum District,24,87.58306,National authorities,Confirmed,Domestic,Chicken,03-01-2008,03-01-2008,NA,NA,1,Winter
+126447,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Nadia District,23.25,88.5,National authorities,Confirmed,Domestic,Chicken,02-01-2008,02-01-2008,NA,NA,1,Winter
+125198,Influenza - Avian,HPAI,Asia,Southern Asia,India,Mizoram,Mizoram,23,93,Media,Denied,Domestic,Chicken,14-11-2007,14-11-2007,NA,NA,11,Autumn
+124038,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Manipur,Chingmeirong West,24.816,93.933,National authorities,Confirmed,Domestic,Chicken,07-07-2007,25-07-2007,NA,NA,7,Monsoon
+122071,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Siliguri,26.69972,88.43306,Media,Denied,Domestic,Chicken,08-05-2007,08-05-2007,NA,NA,5,Summer
+116611,Influenza - Avian,HPAI,Asia,Southern Asia,India,West Bengal,Burdwan,23.25,87.84972,Media,Denied,Domestic,Chicken,19-02-2007,19-02-2007,NA,NA,2,Winter
+111081,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,18-04-2006,05-06-2006,NA,NA,4,Summer
+111084,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,18-04-2006,05-06-2006,NA,NA,4,Summer
+111087,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,18-04-2006,05-06-2006,NA,NA,4,Summer
+108711,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Pachora,20.66667,75.34972,WOAH (former OIE),Confirmed,Domestic,Chicken,05-04-2006,05-04-2006,NA,NA,4,Summer
+111029,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Mehunbare,20.58306,74.95,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111033,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Nandra,21.11667,75.46667,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111037,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Parola,20.88306,75.11667,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111040,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111043,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111046,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111057,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111060,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111063,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111066,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111072,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111075,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+111078,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,04-04-2006,05-06-2006,NA,NA,4,Summer
+110992,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Varad,20.98306,75.4,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+110996,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Paldhi,21.01667,75.46667,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+111000,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Bhadgaon,20.66667,75.23306,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+111006,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Parola,20.88306,75.11667,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+111012,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Erandol,20.91667,75.33306,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+111016,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+111021,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Burhanpur,21.3,76.23306,WOAH (former OIE),Confirmed,Domestic,Chicken,28-03-2006,05-06-2006,NA,NA,3,Summer
+110974,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,14-03-2006,05-06-2006,NA,NA,3,Summer
+110978,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Savda,21.14972,75.88306,WOAH (former OIE),Confirmed,Domestic,Chicken,14-03-2006,05-06-2006,NA,NA,3,Summer
+110982,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Khandesh East District,21,75.5,WOAH (former OIE),Confirmed,Domestic,Chicken,14-03-2006,05-06-2006,NA,NA,3,Summer
+110986,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Sarve,18.2525,72.94528,WOAH (former OIE),Confirmed,Domestic,Chicken,14-03-2006,05-06-2006,NA,NA,3,Summer
+106873,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Chopda,21.25,75.29972,National authorities,Confirmed,Domestic,Chicken,28-02-2006,14-03-2006,NA,NA,2,Winter
+106877,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Raver,21.25,76.03306,National authorities,Confirmed,Domestic,Chicken,28-02-2006,14-03-2006,NA,NA,2,Winter
+106881,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Darangaon,21.01667,75.26667,National authorities,Confirmed,Domestic,Chicken,28-02-2006,14-03-2006,NA,NA,2,Winter
+106885,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Yaval,21.16667,75.7,National authorities,Confirmed,Domestic,Chicken,28-02-2006,14-03-2006,NA,NA,2,Winter
+104928,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Maharashtra,Nowapur,19.78306,72.68306,WOAH (former OIE),Confirmed,Domestic,Chicken,27-01-2006,20-02-2006,NA,NA,1,Winter
+105108,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Gujarat,Surat District,20.91667,73.04972,WOAH (former OIE),Confirmed,Domestic,Chicken,27-01-2006,22-02-2006,NA,NA,1,Winter
+160440,Influenza - Avian,HPAI,Asia,Southern Asia,India,Tripura,Sepahijala zoo,23.672887,91.320334,Media,Denied,Wild,Unspecified Bird,12-03-2011,12-03-2011,NA,NA,3,Summer
+160440,Influenza - Avian,HPAI,Asia,Southern Asia,India,Tripura,Sepahijala zoo,23.672887,91.320334,Media,Denied,Wild,Wild Cat,12-03-2011,12-03-2011,NA,NA,3,Summer
+160440,Influenza - Avian,HPAI,Asia,Southern Asia,India,Tripura,Sepahijala zoo,23.672887,91.320334,Media,Denied,Wild,Leopard,12-03-2011,12-03-2011,NA,NA,3,Summer
+165984,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,West Bengal,24.41503,88.081494,FAO Field Officer,Denied,Domestic,Duck,20-11-2011,20-11-2011,NA,NA,11,Autumn
+165984,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,West Bengal,24.41503,88.081494,FAO Field Officer,Denied,Domestic,Unspecified Bird,20-11-2011,20-11-2011,NA,NA,11,Autumn
+165985,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Assam,26.054945,90.757484,FAO Field Officer,Denied,Domestic,Duck,20-11-2011,20-11-2011,NA,NA,11,Autumn
+165985,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Assam,Assam,26.054945,90.757484,FAO Field Officer,Denied,Domestic,Unspecified Bird,20-11-2011,20-11-2011,NA,NA,11,Autumn
+174863,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Orissa,Khorda (chilika),20.185639,85.627298,National authorities,Confirmed,Wild,Northern Pintail (Anas Acuta),26-02-2013,26-02-2013,NA,NA,2,Winter
+175076,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Shankerpur (Madheli panchayat),26.023787,86.869328,National authorities,Confirmed,Domestic,Chicken,14-03-2013,14-03-2013,NA,NA,3,Summer
+175077,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Bihar,Shankerpur (Jirwa panchayat),26.023787,86.869328,National authorities,Confirmed,Domestic,Chicken,14-03-2013,14-03-2013,NA,NA,3,Summer
+175078,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,West Bengal,Kishanganj ,26.106237,87.956625,National authorities,Confirmed,Domestic,Chicken,14-03-2013,14-03-2013,NA,NA,3,Summer
+217911,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,National Zoological Park (Delhi zoo) ,28.6,77.24,FAO Field Officer,Confirmed,Captive,Crow,19-10-2016,19-10-2016,NA,NA,10,Autumn
+217911,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,National Zoological Park (Delhi zoo) ,28.6,77.24,FAO Field Officer,Confirmed,Captive,Stork,19-10-2016,19-10-2016,NA,NA,10,Autumn
+217911,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,National Zoological Park (Delhi zoo) ,28.6,77.24,FAO Field Officer,Confirmed,Captive,Unspecified Bird,19-10-2016,19-10-2016,NA,NA,10,Autumn
+217911,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,National Zoological Park (Delhi zoo) ,28.6,77.24,FAO Field Officer,Confirmed,Captive,Anatidae (Incognita),19-10-2016,19-10-2016,NA,NA,10,Autumn
+217911,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,National Zoological Park (Delhi zoo) ,28.6,77.24,FAO Field Officer,Confirmed,Captive,Unspecified Bird,19-10-2016,19-10-2016,NA,NA,10,Autumn
+218114,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Delhi,Hauz Haas Deer Park,28.55,77.19,National authorities,Confirmed,Captive,Unspecified Bird,23-10-2016,23-10-2016,NA,NA,10,Autumn
+218136,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Madhya Pradesh,Gwalior,26.026999,78.144733,National authorities,Confirmed,Captive,Stork,21-10-2016,21-10-2016,NA,NA,10,Autumn
+218756,Influenza - Avian,H5N8 HPAI,Asia,Southern Asia,India,Karnataka,Itagi village  Hospet Taluk ,15.19289,76.706358,National authorities,Confirmed,Domestic,Chicken,11-11-2016,11-11-2016,NA,NA,11,Autumn
+260498,Influenza - Avian,HPAI,Asia,Southern Asia,India,Karnataka,Kukkarahalli Lake,12.31,76.63,Media,Denied,Wild,Rose Pelican (Pelecanus Onocrotalus),29-10-2019,29-10-2019,NA,NA,10,Autumn
+286345,Influenza - Avian,HPAI,Asia,Southern Asia,India,Rajasthan,Tonk,26.17,75.78,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286346,Influenza - Avian,HPAI,Asia,Southern Asia,India,Rajasthan,Karauli,26.5,77.02,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286347,Influenza - Avian,HPAI,Asia,Southern Asia,India,Rajasthan,Bhilwara,25.35,74.63,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286348,Influenza - Avian,HPAI,Asia,Southern Asia,India,Gujarat,Valsad,20.61,72.926,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286349,Influenza - Avian,HPAI,Asia,Southern Asia,India,Gujarat,Vadodara,22.3,73.2,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286350,Influenza - Avian,HPAI,Asia,Southern Asia,India,Gujarat,Surat,21.17024,72.831061,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286351,Influenza - Avian,HPAI,Asia,Southern Asia,India,Uttarakhand,Kotdwar,29.75,78.53,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286352,Influenza - Avian,HPAI,Asia,Southern Asia,India,Uttarakhand,Dehradun,30.318,78.029,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286353,Influenza - Avian,HPAI,Asia,Southern Asia,India,Delhi,New Delhi,28.6,77.2,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286354,Influenza - Avian,HPAI,Asia,Southern Asia,India,Delhi,Sanjay lake,28.614167,77.303889,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286355,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Parbhani,19.266667,76.783333,National authorities,Confirmed,Wild,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286356,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Mumbai,18.975,72.825833,National authorities,Confirmed,Domestic,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286357,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Thane,19.172431,72.957019,National authorities,Confirmed,Domestic,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286358,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Dapoli,17.758889,73.185556,National authorities,Confirmed,Domestic,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286359,Influenza - Avian,HPAI,Asia,Southern Asia,India,Maharashtra,Beed,18.99,75.76,National authorities,Confirmed,Domestic,Unspecified Bird,11-01-2021,11-01-2021,NA,NA,1,Winter
+286360,Influenza - Avian,HPAI,Asia,Southern Asia,India,Haryana,Haryana,29.292485,76.231115,National authorities,Confirmed,Wild,Crow,11-01-2021,11-01-2021,NA,NA,1,Winter
+286403,Influenza - Avian,HPAI,Asia,Southern Asia,India,Chhattisgarh,Balod,20.73,81.2,WOAH (former OIE),Confirmed,Domestic,Unspecified Bird,16-01-2021,16-01-2021,NA,NA,1,Winter
+286451,Influenza - Avian,HPAI,Asia,Southern Asia,India,Punjab,Rupnagar,31.005836,76.554497,National authorities,Confirmed,Wild,Bar-Headed Goose,19-01-2021,19-01-2021,NA,NA,1,Winter
+286452,Influenza - Avian,HPAI,Asia,Southern Asia,India,Uttar Pradesh,Aligarh,27.87884,78.129546,National authorities,Confirmed,Wild,Crow,19-01-2021,19-01-2021,NA,NA,1,Winter
+286492,Influenza - Avian,HPAI,Asia,Southern Asia,India,Punjab,Dera Bassi,30.59,76.84,National authorities,Confirmed,Domestic,Unspecified Bird,20-01-2021,20-01-2021,NA,NA,1,Winter
+286493,Influenza - Avian,HPAI,Asia,Southern Asia,India,Punjab,Panchkula,30.65,76.85,National authorities,Confirmed,Wild,Unspecified Bird,20-01-2021,20-01-2021,NA,NA,1,Winter
+335000,Influenza - Avian,HPAI,Asia,Southern Asia,India,Kerala,Vazhuthanam,9.29819,76.476344,WOAH (former OIE),Confirmed,Domestic,Duck,22-10-2022,22-10-2022,NA,NA,10,Autumn
+400068,Influenza - Avian,HPAI,Asia,Southern Asia,India,Andhra Pradesh,Eluru district,16.711,81.092,National authorities,Denied,,,13-02-2025,13-02-2025,1,NA,2,Winter
+414559,Influenza - Avian,H5N1 HPAI,Asia,Southern Asia,India,Karnataka,Karnataka State,12.97,77.5,WHO,Confirmed,,,01-07-2025,01-07-2025,1,1,7,Monsoon
