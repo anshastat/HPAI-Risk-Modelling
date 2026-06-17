@@ -166,7 +166,7 @@ The framework incorporated variables such as:
 
 | Category | Example Variables |
 |-----------|------------------|
-| Poultry density |
+| Poultry  | Chicken density, Duck density|
 | Wildlife | Migratory Pathways |
 | Environment | Temperature, rainfall, |
 | Geography | Distance to wetlands |
