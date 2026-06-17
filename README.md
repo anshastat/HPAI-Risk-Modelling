@@ -146,7 +146,7 @@ The framework incorporated variables such as:
 | **Poultry Population**    | Chicken Density, Duck Density                                               |
 | **Wildlife Factors**      | Migratory Bird Flyways                                                      |
 | **Climatic Factors**      | Temperature, Precipitation, Wind Speed, Surface Pressure, Relative Humidity |
-| **Environmental Factors** | Soil Moisture, LAI, LST, EVI, NDVI, Waterbodies,Soil Moisture, Leaf Area Index (LAI), Land Surface Temperature (LST), Enhanced Vegetation Index (EVI), Normalized Difference Vegetation Index (NDVI), Water Bodies                                         |
+| **Environmental Factors** | Soil Moisture, Leaf Area Index (LAI), Land Surface Temperature (LST), Enhanced Vegetation Index (EVI), Normalized Difference Vegetation Index (NDVI), Water Bodies                                         |
 | **Spatial Factors**       | Latitude, Longitude, State, District                                        |
 | **Temporal Factors**      | Season, Migration Period                                                    |
 
