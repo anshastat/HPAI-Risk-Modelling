@@ -148,15 +148,13 @@ Exploratory Data Analysis
       ↓
 Statistical Modelling
       ↓
+Spatial Analysis
+      ↓
 Machine Learning Modelling
       ↓
 Model Evaluation
       ↓
-Spatial Analysis
-      ↓
 Risk Mapping
-      ↓
-Decision Support Outputs
 ```
 
 
@@ -166,13 +164,14 @@ Decision Support Outputs
 ### Explore Data
 
 ```bash
-jupyter notebook notebooks/01_data_exploration.ipynb
+
 ```
 
 ### Train Model
 
 ```bash
 python src/models/random_forest.py
+
 ```
 
 ### Generate Risk Maps
@@ -183,18 +182,18 @@ python src/visualization/maps.py
 
 ---
 
-## Example Risk Factors
+## Risk Factors
 
-The framework can incorporate variables such as:
+The framework incorporated variables such as:
 
 | Category | Example Variables |
 |-----------|------------------|
-| Poultry | Farm density, flock size |
-| Wildlife | Migratory bird abundance |
-| Environment | Temperature, rainfall |
+| Poultry density |
+| Wildlife | Migratory Pathways |
+| Environment | Temperature, rainfall, |
 | Geography | Distance to wetlands |
-| Biosecurity | Farm management indicators |
 | Temporal | Seasonality, migration period |
+
 
 ---
 
@@ -202,8 +201,7 @@ The framework can incorporate variables such as:
 
 ### Model Outputs
 
-- Outbreak probability
-- Risk scores
+- Outbreak Risk Probability
 - Feature importance rankings
 - Model performance metrics
 
@@ -212,13 +210,11 @@ The framework can incorporate variables such as:
 - Risk maps
 - Hotspot maps
 - Surveillance priority zones
-- Interactive dashboards
 
 ### Reports
 
-- Risk assessments
 - Model evaluation summaries
-- Scenario analyses
+- Discussion
 
 ---
 
@@ -230,74 +226,24 @@ Models may be evaluated using:
 - Precision
 - Recall
 - F1 Score
-- Brier Score
-- Calibration Curves
-- Spatial Validation Metrics
-
+- Accuracy
 ---
 
-## Reproducibility
-
-To support reproducible research:
-
-- Version-controlled code
-- Configuration-driven workflows
-- Documented data transformations
-- Automated testing
-- Continuous integration
-
----
 
 ## Future Development
 
 Planned enhancements include:
 
 - Real-time surveillance integration
-- Satellite remote sensing features
-- Climate scenario modelling
-- Bayesian forecasting
 - Early warning systems
 - Interactive web dashboard
-- Explainable AI (SHAP)
-- Multi-country risk assessments
-
 ---
 
-## Contributing
-
-Contributions are welcome.
-
-Suggested areas:
-
-- Data ingestion pipelines
-- Epidemiological modelling
-- Spatial analytics
-- Visualization
-- Documentation
-- Testing
-
-Please open an issue or submit a pull request.
 
 ---
 
 ## Disclaimer
 
-This repository is intended for research and decision-support purposes. Model outputs should not be used as the sole basis for disease control decisions without expert review and validation.
-
+This repository is intended for research and decision-support purposes.
 ---
 
-## License
-
-Released under the MIT License.
-
----
-
-## Citation
-
-If you use this repository in research, please cite:
-
-```text
-HPAI Risk Modelling Project.
-Version 1.0.
-GitHub Repository.
-```
