@@ -52,34 +52,50 @@ hpai-risk-modelling/
 
 Potential data inputs include:
 
-### Disease Surveillance
+### Disease Surveillance Data
 
-- Poultry outbreak reports
-- Laboratory-confirmed HPAI cases
-- Mortality reports
-- Wildlife surveillance records
+HPAI outbreak records were obtained from:
 
-### Environmental Data
+FAO EMPRES-i+ Database: https://empres-i.apps.fao.org/
+WOAH World Animal Health Information System (WAHIS): https://wahis.woah.org/#/event-management
 
-- Temperature
-- Rainfall
-- Humidity
-- Wind patterns
-- Vegetation indices
+These databases provide information on outbreak locations, dates, affected species, and disease occurrence.
+
+### Climate and Meteorological Data
+
+Bioclimatic variables were downloaded from:
+
+WorldClim Version 2.1: https://www.worldclim.org/data/worldclim21.html
+
+Meteorological variables were obtained from:
+
+NASA POWER Data Access Viewer: https://power.larc.nasa.gov/data-access-viewer/
+
+### Environmental and Land Cover Data
+
+Environmental variables were obtained from:
+
+NASA Global Land Data Assimilation System (GLDAS): https://ldas.gsfc.nasa.gov/gldas
+
+These datasets provide land surface and environmental characteristics relevant to disease ecology.
 
 ### Spatial Data
 
-- Wetlands
-- Lakes and rivers
-- Land cover
-- Administrative boundaries (https://download.geofabrik.de/asia/india.html)
+Administrative boundaries and geographic reference data were obtained from:
+
+OpenStreetMap (OSM): https://www.openstreetmap.org/
+
+Water bodies, rivers, lakes, and other hydrographic features were extracted from OpenStreetMap data downloads available through:
+
+Geofabrik India Extracts: https://download.geofabrik.de/asia/india.html
 
 ### Wildlife Data
 
-- Migratory bird flyways
-- 
+Migratory bird flyways/Path : 
 
----
+A migratory bird exposure variable was manually derived based on the proximity of outbreak locations to migratory bird flyways, bird sanctuaries, and wetlands identified from publicly available sources.
+
+
 
 ## Modelling Approaches
 
