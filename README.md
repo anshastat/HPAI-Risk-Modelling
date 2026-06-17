@@ -133,7 +133,7 @@ Generalized Additive Models (GAM)
 
 ## Workflow
 
-
+```text
 Data Collection
       ↓
 Data Preprocessing
@@ -153,6 +153,8 @@ Spatial Analysis
 Risk Mapping
       ↓
 Decision Support Outputs
+```
+
 
 
 
