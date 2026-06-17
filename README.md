@@ -131,8 +131,8 @@ A migratory bird exposure variable was manually derived based on the proximity o
 
 * Global Moran's I Spatial Autocorrelation Analysis
 * Local Indicators of Spatial Association (LISA)
-* Geostatistical Risk Mapping
 * Intraclass Correlation Coefficient (ICC) using Generalized Linear Mixed Models (GLMM)
+* Geostatistical Risk Mapping
 
 
 ## Workflow
@@ -162,37 +162,6 @@ Decision Support Outputs
 
 
 
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/<your-org>/hpai-risk-modelling.git
-cd hpai-risk-modelling
-```
-
-### Create Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate
-```
-
-Windows:
-
-```powershell
-venv\Scripts\activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Quick Start
 
 ### Explore Data
 
