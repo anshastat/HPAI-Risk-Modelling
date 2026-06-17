@@ -137,41 +137,19 @@ Risk Mapping
 ```
 
 
-
-
-
-### Explore Data
-
-```bash
-
-```
-
-### Train Model
-
-```bash
-python src/models/random_forest.py
-
-```
-
-### Generate Risk Maps
-
-```bash
-python src/visualization/maps.py
-```
-
----
-
 ## Risk Factors
 
 The framework incorporated variables such as:
 
-| Category | Example Variables |
-|-----------|------------------|
-| Poultry  | Chicken density, Duck density|
-| Wildlife | Migratory Pathways |
-| Environment | Temperature, rainfall, |
-| Geography | Distance to wetlands |
-| Temporal | Seasonality, migration period |
+| Category                  | Variables                                                           |
+| ------------------------- | --------------------------------------------------------------------------- |
+| **Poultry Population**    | Chicken Density, Duck Density                                               |
+| **Wildlife Factors**      | Migratory Bird Flyways                                                      |
+| **Climatic Factors**      | Temperature, Precipitation, Wind Speed, Surface Pressure, Relative Humidity |
+| **Environmental Factors** | Soil Moisture, LAI, LST, EVI, NDVI, Waterbodies,Soil Moisture, Leaf Area Index (LAI), Land Surface Temperature (LST), Enhanced Vegetation Index (EVI), Normalized Difference Vegetation Index (NDVI), Water Bodies                                         |
+| **Spatial Factors**       | Latitude, Longitude, State, District                                        |
+| **Temporal Factors**      | Season, Migration Period                                                    |
+
 
 
 ---
