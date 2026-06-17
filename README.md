@@ -24,27 +24,6 @@ Develop a predictive modelling framework that integrates relevant risk factors, 
 
 ---
 
-## Repository Structure
-
-```text
-hpai-risk-modelling/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-│
-├── notebooks/
-├── src/
-├── tests/
-├── docs/
-├── outputs/
-├── configs/
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
 
 ---
 
