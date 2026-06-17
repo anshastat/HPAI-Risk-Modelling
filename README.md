@@ -76,6 +76,13 @@ A migratory bird exposure variable was manually derived based on the proximity o
 
 ## Modelling Approaches
 
+### Spatial Models and Analyses
+
+* Global Moran's I Spatial Autocorrelation Analysis
+* Local Indicators of Spatial Association (LISA)
+* Intraclass Correlation Coefficient (ICC) using Generalized Linear Mixed Models (GLMM)
+* Geostatistical Risk Mapping
+
 ### Statistical Models
 
 ```text
@@ -103,12 +110,7 @@ A migratory bird exposure variable was manually derived based on the proximity o
 * Graph Convolutional Networks (GCN)
 * Graph Attention Networks (GAT)
 
-### Spatial Models and Analyses
 
-* Global Moran's I Spatial Autocorrelation Analysis
-* Local Indicators of Spatial Association (LISA)
-* Intraclass Correlation Coefficient (ICC) using Generalized Linear Mixed Models (GLMM)
-* Geostatistical Risk Mapping
 
 
 ## Workflow
