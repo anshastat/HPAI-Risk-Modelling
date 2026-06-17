@@ -24,9 +24,6 @@ Develop a predictive modelling framework that integrates relevant risk factors, 
 
 ---
 
-
----
-
 ## Data Sources
 
 Potential data inputs include:
