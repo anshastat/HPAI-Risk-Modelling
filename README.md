@@ -103,13 +103,13 @@ A migratory bird exposure variable was manually derived based on the proximity o
 ### Statistical Models
 
 ```text
-Generalized Linear Models (GLM)
+* Generalized Linear Models (GLM)
 ├── Baseline GLM
 ├── GLM + LASSO
 ├── GLM + Ridge
 └── GLM + Elastic Net
 
-Generalized Additive Models (GAM)
+* Generalized Additive Models (GAM)
 ├── Baseline GAM
 ├── GAM + LASSO
 ├── GAM + Ridge
