@@ -71,7 +71,7 @@ Geofabrik India Extracts: https://download.geofabrik.de/asia/india.html
 Migratory bird flyways/Path : 
 
 A migratory bird exposure variable was manually derived based on the proximity of outbreak locations to migratory bird flyways, bird sanctuaries, and wetlands identified from publicly available sources.
-: https://www.researchgate.net/figure/Flyway-for-migratory-birds-India-source-Google_fig1_328687081
+: DOI: 10.14741/ijcet/v.8.6.1
 
 
 
