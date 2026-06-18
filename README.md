@@ -60,7 +60,7 @@ These datasets provide land surface and environmental characteristics relevant t
 
 Administrative boundaries and geographic reference data were obtained from:
 
-OpenStreetMap (OSM): https://www.openstreetmap.org/
+https://gadm.org/download_country.html
 
 Water bodies, rivers, lakes, and other hydrographic features were extracted from OpenStreetMap data downloads available through:
 
@@ -71,7 +71,7 @@ Geofabrik India Extracts: https://download.geofabrik.de/asia/india.html
 Migratory bird flyways/Path : 
 
 A migratory bird exposure variable was manually derived based on the proximity of outbreak locations to migratory bird flyways, bird sanctuaries, and wetlands identified from publicly available sources.
-: DOI: 10.14741/ijcet/v.8.6.1
+: https://ijcet.evegenis.org/index.php/ijcet/article/view/1965/1845
 
 ### Final Modeling Datset
 
