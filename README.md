@@ -1,6 +1,6 @@
 # HPAI H5N1 and H5N8 Outbreak Risk Modelling
 
-A reproducible predictive modelling framework that integrates relevant risk factors, including spatio-temporal and environmental variables, to estimate the risk of HPAI H5N1 and H5N8 outbreaks in India using multiple machine learning approaches. 
+A reproducible predictive modelling framework that integrates relevant risk factors, including spatio-temporal and environmental variables, to estimate the risk of HPAI H5N1 and H5N8 outbreaks in India using machine learning approaches. 
 
 ---
 
