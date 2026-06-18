@@ -68,12 +68,14 @@ Geofabrik India Extracts: https://download.geofabrik.de/asia/india.html
 
 ### Wildlife Data
 
+Poultry Density: Chicken and Duck Density (https://www.fao.org/livestock-systems/global-distributions/en/)
+
 Migratory bird flyways/Path : 
 
 A migratory bird exposure variable was manually derived based on the proximity of outbreak locations to migratory bird flyways, bird sanctuaries, and wetlands identified from publicly available sources.
 : https://ijcet.evegenis.org/index.php/ijcet/article/view/1965/1845
 
-### Final Modeling Datset
+### Final Modeling Dataset
 
 HPAI Locations + Background Points → WorldClim Extraction → Wetland Distance Calculation → Poultry Density Assignment → Environmental Variable Integration → Missing Value Imputation → Log Transformation → District-Level Background Aggregation → Final HPAI Modeling Dataset.
 
