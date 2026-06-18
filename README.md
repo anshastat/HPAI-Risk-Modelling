@@ -73,7 +73,9 @@ Migratory bird flyways/Path :
 A migratory bird exposure variable was manually derived based on the proximity of outbreak locations to migratory bird flyways, bird sanctuaries, and wetlands identified from publicly available sources.
 : DOI: 10.14741/ijcet/v.8.6.1
 
+### Final Modeling Datset
 
+HPAI Locations + Background Points → WorldClim Extraction → Wetland Distance Calculation → Poultry Density Assignment → Environmental Variable Integration → Missing Value Imputation → Log Transformation → District-Level Background Aggregation → Final HPAI Modeling Dataset.
 
 ## Modelling Approaches
 
